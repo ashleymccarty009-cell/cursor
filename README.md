@@ -1,0 +1,3 @@
+# cursor
+ll
+git init
