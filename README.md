@@ -1,3 +1,1 @@
-# cursor
-ll
-git init
+heello cursor
